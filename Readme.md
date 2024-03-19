@@ -43,7 +43,7 @@ The following questions can be considered key business questions and metrics tha
 
 ## Project Organization
 
-The directory structure of IndoMarket project looks like this:
+The directory structure of Clothing Company Analysis looks like this:
 
     ├── README.md          <- The top-level README for developers using this project.
     │
